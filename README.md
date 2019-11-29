@@ -5,8 +5,9 @@
 + 图片（image）
 + 文本（text）
 
-#### 数据配置
+### 数据配置
 
+#### 矩形色块
 <pre>
 {
 	model: 'block',
@@ -21,6 +22,7 @@
 }
 </pre>
 
+#### 文本
 <pre>
 {
 	model: 'text',
@@ -35,6 +37,7 @@
 }
 </pre>
 
+#### 图片
 <pre>
 {
 	model: 'image',
@@ -48,7 +51,7 @@
 }
 </pre>
 
-
+#### 裁剪模式
 <pre>
 {
 	model: 'crop',
